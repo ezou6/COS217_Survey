@@ -3,7 +3,7 @@ Assignment 0 readme File
 ------------------------------------------------------------------------
 What is your name?
 
-
+Emily Zou
 
 ------------------------------------------------------------------------
 What authorized sources of information did you use to complete the
@@ -12,7 +12,10 @@ in the "Policies" web page (also available on armlab in the file
 ~cos217/AuthorizedSourcesList ) to this section of the readme file,
 and edit it as appropriate.
 
-
+The course's precepts.
+The course's website.
+Documents that are referenced directly by the course's website. Such documents include the course's lecture slides and precept handouts.
+Outside sources listed in assignment instructions - BashGuide, Geeks For Geeks (Intro to Bash and Bash Scripting)
 
 ------------------------------------------------------------------------
 What unauthorized sources of information did you use to complete the
@@ -26,6 +29,8 @@ interaction, may additionally require the interaction being reported
 to the Committee on Discipline. Write "None" if you used no
 unauthorized sources of information.
 
+None
+
 
 
 ------------------------------------------------------------------------
@@ -36,26 +41,29 @@ enter your name in the space below the following affirmation:
 This paper represents my own work in accordance with University
 regulations.
 
-
+This paper represents my own work in accordance with University regulations.
 
 ------------------------------------------------------------------------
 What is your assessment of the assignment? Was it helpful? Was it fun?
 
-
+I'm quite happy that I've learned a bit more about the Terminal and writing Bash scripts. I'm
+a novice at CLI (skipped COS 126 so am starting from scratch) so this assignment was a bit difficult, 
+but it was nevertheless fun to dabble in a new language with such practical usecases. In addition,
+learning Github formally through the CLI was incredibly helpful. 
 
 ------------------------------------------------------------------------
 (optional) What information can you provide about your submission that
 will help your grader to grade it in the most favorable light? In
 particular, what bugs are in your submission?
 
-
+N/A
 
 ------------------------------------------------------------------------
 What bash command(s) did you use to generate the files in Step 3.2?
 
-
+printf
 
 ------------------------------------------------------------------------
 What is your resulting MD5 checksum from Step 3.3 (NOT 3.2!)?
 
-MD5:
+MD5: 6ae71c57df7697032c5182782750d5d3
